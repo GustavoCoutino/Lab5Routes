@@ -1,0 +1,14 @@
+.divHome {
+  text-align: center;
+  background-color: #f5f5f5;
+  padding: 20px 0;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+.divHome h1 {
+  margin: 0;
+  color: #333;
+  font-size: 28px;
+}

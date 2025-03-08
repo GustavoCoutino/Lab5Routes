@@ -1,0 +1,33 @@
+.divProfile {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  max-width: 300px;
+  margin: 20px auto;
+}
+
+.divProfile div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  background-color: #e0e0e0;
+  margin: 0 auto 15px auto;
+  border-radius: 50%;
+  font-size: 24px;
+  color: #555;
+}
+
+.divProfile h2 {
+  text-align: center;
+  margin: 0 0 5px 0;
+  color: #333;
+}
+
+.divProfile p {
+  text-align: center;
+  margin: 0 0 10px 0;
+  color: #666;
+}
